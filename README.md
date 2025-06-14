@@ -1,7 +1,6 @@
 # formation
 Tous mes projets réalisés pendant mes différentes formations
 
----
 Bienvenue sur la vitrine des projets réalisés pendant mes différentes **formations** 
 
 ---
@@ -10,4 +9,3 @@ Bienvenue sur la vitrine des projets réalisés pendant mes différentes **forma
 
 [projet-final-cs50 ->](https://github.com/me50/alimisara)
 
----
